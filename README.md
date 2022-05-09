@@ -34,7 +34,7 @@ Everything works out of the box with Ubuntu 22.04 LTS, which is nice.
         xrandr --addmode DP-1 "1080x1080R"
         xrandr --output DP-1 --mode "1080x1080R"
 
-- Patch `CoolRetroTerm` to increase screen curvature (optional, purely aesthetic reason) 
+- Patch `CoolRetroTerm` to increase screen curvature (optional, purely aesthetic reasons) 
 
     Edit `app/qml/ApplicationSettings.qml` and change the following property: 
 
@@ -42,7 +42,7 @@ Everything works out of the box with Ubuntu 22.04 LTS, which is nice.
 
 ### 3D Printed Parts
 
-Everything is (loosely) held together with 5x2mm magnets in my build (again, for purely aesthetic reason). You might want to add holes for screws & other cutout to utilize those USB4 ports. 
+Everything is (loosely) held together by 5x2mm magnets in my build (again, for purely aesthetic reasons). You might want to add holes for screws & other cutouts to utilize those USB4 ports.
 
 | ![](images/mainboard-terminal-rendering-1.png) | ![](images/mainboard-terminal-rendering-2.png)| 
 |-----------------------------|-----------------------------|
