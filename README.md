@@ -60,4 +60,4 @@ Paint color used in the build: Tamiya paint `PS-57` (Pearl White) and `TS-30` (S
 
 Copyright (c) 2022 Penk Chen. All rights reserved.
 
-All files are licensed under MIT license, see the [LICENSE](LICENSE) for more information.
+All files are licensed under MIT license or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), see the [LICENSE](LICENSE) for more information.
