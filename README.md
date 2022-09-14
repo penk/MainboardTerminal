@@ -20,7 +20,7 @@ And yes, it runs Spacewar! :-)
 
 - Framework Mainboard [https://frame.work/products/mainboard](https://frame.work/products/mainboard) 
 - OLKB Preonic [https://drop.com/buy/preonic-mechanical-keyboard](https://drop.com/buy/preonic-mechanical-keyboard) 
-- 5" round LCD [https://m.tb.cn/h.fr5pE3w](https://m.tb.cn/h.fr5pE3w)
+- 5" round LCD [https://www.aliexpress.com/item/2255800078247026.html](https://www.aliexpress.com/item/2255800078247026.html)
 
 ### Software 
 
